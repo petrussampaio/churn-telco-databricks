@@ -1,0 +1,25 @@
+tenure_segment,contract_type,internet_service,total_clientes,total_churn,taxa_churn_pct,mrr_medio
+0-12 meses,Month-to-Month,Yes,1530,936,61.18,67.35
+48+ meses,Month-to-Month,No,2,1,50.0,19.7
+13-24 meses,Month-to-Month,Yes,607,270,44.48,74.91
+25-48 meses,Month-to-Month,Yes,661,262,39.64,79.63
+48+ meses,Month-to-Month,Yes,294,88,29.93,85.17
+0-12 meses,Month-to-Month,No,383,88,22.98,20.27
+48+ meses,One Year,Yes,572,80,13.99,86.9
+0-12 meses,One Year,Yes,69,9,13.04,62.68
+25-48 meses,One Year,Yes,423,53,12.53,75.2
+13-24 meses,One Year,Yes,120,15,12.5,69.22
+13-24 meses,Month-to-Month,No,79,8,10.13,20.68
+0-12 meses,One Year,No,77,4,5.19,20.41
+48+ meses,Two Year,Yes,936,39,4.17,86.72
+25-48 meses,Month-to-Month,No,54,2,3.7,21.06
+48+ meses,One Year,No,71,2,2.82,21.49
+25-48 meses,Two Year,Yes,173,4,2.31,78.22
+25-48 meses,One Year,No,123,2,1.63,21.05
+25-48 meses,Two Year,No,160,2,1.25,21.16
+13-24 meses,One Year,No,95,1,1.05,20.35
+48+ meses,Two Year,No,364,3,0.82,22.2
+0-12 meses,Two Year,Yes,74,0,0.0,65.0
+13-24 meses,Two Year,Yes,58,0,0.0,70.6
+13-24 meses,Two Year,No,65,0,0.0,21.41
+0-12 meses,Two Year,No,53,0,0.0,21.06
