@@ -2,7 +2,7 @@
 
 Pipeline de dados em arquitetura medallion (Bronze → Silver → Gold) para análise e previsão de churn de clientes de telecomunicações, com modelo preditivo e dashboard interativo.
 
-📊 **Dashboard:** [https://datastudio.google.com/reporting/858532ac-1c6e-440c-a5d5-9a7653e368df]
+📊 **Dashboard:** [Data Studio](https://datastudio.google.com/reporting/858532ac-1c6e-440c-a5d5-9a7653e368df)
 
 ## Objetivo
 
@@ -59,4 +59,4 @@ README.md
 
 ## Autor
 
-Petrus Sampaio — [https://www.linkedin.com/in/petrus-sampaio-6b3b8924a/] · [https://github.com/petrussampaio]
+Petrus Sampaio — [LinkedIn](https://www.linkedin.com/in/petrus-sampaio-6b3b8924a/) · [GitHub](https://github.com/petrussampaio)
