@@ -14,7 +14,7 @@ Simular um cenário real de engenharia e análise de dados: ingestão de dados b
 - **Databricks** (ambiente de execução, Delta Lake, Unity Catalog)
 - **Spark SQL** (análises)
 - **MLlib** (regressão logística)
-- **Looker Studio** (dashboard)
+- **Data Studio** (dashboard)
 
 ## Dataset
 
